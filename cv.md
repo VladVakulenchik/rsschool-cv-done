@@ -8,7 +8,7 @@
 ## Summary
 From early childhood I decided to be an IT specialist because I really like the special type of life of usual programmist:<br>
 fast work, constant development, you always learn smth new, you meet a lot of new friends and a lot of other interesting stuff.<br>
-My goal is to become a good programmist who will do a lot of useful things and who will make our life easier and better.
+My goal is to become a good programmist who will do a lot of useful things and who will make our everyday life easier and better.
 
 ## Skills
 language | Level
